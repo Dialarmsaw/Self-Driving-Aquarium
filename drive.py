@@ -40,7 +40,9 @@ def getXY(frame):
   if len(contr) > 0:
       c = max(contr, key=cv2.contourArea)
       ((x,y), radius) = cv2.minEnclosingCircle(c)
-     return x, y, mask
+  x -= xOffset
+  y -= yOffset
+  return x, y, mask
 
 
 def showWindows(frame1, frame2, mask1, mask2):
