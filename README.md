@@ -1,9 +1,12 @@
 # Fish Car
 
 ![image](https://github.com/Dialarmsaw/Fishy-Buisness/blob/main/fishcar.png)
-![image]([https://github.com/Dialarmsaw/Fishy-Buisness/blob/main/fishcar.png](https://github.com/Dialarmsaw/Self-Driving-Aquarium/blob/main/IMG_3960.JPG))
-![image]([https://github.com/Dialarmsaw/Fishy-Buisness/blob/main/fishcar.png](https://github.com/Dialarmsaw/Self-Driving-Aquarium/blob/main/IMG_4554.JPG))
-![image]([https://github.com/Dialarmsaw/Fishy-Buisness/blob/main/fishcar.png](https://github.com/Dialarmsaw/Self-Driving-Aquarium/blob/main/image.png))
+
+![image](https://github.com/Dialarmsaw/Self-Driving-Aquarium/blob/main/IMG_3960.JPG)
+
+![image](https://github.com/Dialarmsaw/Self-Driving-Aquarium/blob/main/IMG_4554.JPG)
+
+![image](https://github.com/Dialarmsaw/Self-Driving-Aquarium/blob/main/image.png)
 
 
 For a distinctions project (extra credit) for school, I made a car to train a fish. This car allowed the fish to swim in a fish tank, and the entire fish tank to move in said direction. 
